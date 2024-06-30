@@ -3,4 +3,5 @@
     "config:base",
   ],
   prConcurrentLimit: 10,
+  prHourlyLimit: 10
 }
